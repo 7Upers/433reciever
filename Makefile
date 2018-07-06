@@ -9,8 +9,8 @@ OBJ2HEX = /usr/bin/avr-objcopy
 UISP = /usr/bin/avrdude
 FLASHER = arduino
 PORT = /dev/ttyUSB0
-#SPEED = 57600
-SPEED = 115200
+SPEED = 57600
+#SPEED = 115200
 TARGET = main
 
 #main
